@@ -1,89 +1,150 @@
 # Hi there, I'm Uchith Vihanga 👋
 
-## About Me
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+</div>
 
-I'm an Associate Software Developer at Sri Lanka Telecom Services with a passion for building scalable, efficient solutions. As a Software Engineering graduate from Birmingham City University, I specialize in full-stack development with a focus on microservices architecture and modern development practices.
-
-**Currently:**
-- 💼 Working as an Associate Software Developer at Sri Lanka Telecom Services Ltd.
-- 🔭 Contributing to enterprise-level ERP systems with microservices architecture
-- 🌱 Leveraging AI-powered tools and prompt engineering to boost development efficiency
-- 💡 Open to collaboration on innovative projects
-- 📫 Reach me at: [uchithvihanga@gmail.com](mailto:uchithvihanga@gmail.com)
-
-## Technical Expertise
-
-**Languages:** Java, JavaScript, PHP, SQL
-
-**Backend Frameworks:** Spring Boot, Laravel, Java EE, EJB
-
-**Frontend Technologies:** React.js, Flutter, HTML, CSS, Bootstrap
-
-**Database Systems:** MySQL, Firebase Firestore
-
-**ORM Technologies:** JPA, Hibernate, Eloquent
-
-**Architecture:** Microservices Architecture, Monolithic Architecture, REST APIs
-
-**Messaging & Integration:** JMS (Java Message Service)
-
-**Tools & Platforms:** Git, Payara 6, Firebase Authentication, Firebase Storage, Google Maps API
-
-**Additional Skills:** Spring Framework, Java SE, Android SDK
-
-## Featured Projects
-
-### 🏢 ERP System – Admin, HR, Finance & Payroll Modules
-Currently contributing to a comprehensive modular ERP system with microservices architecture. The system integrates multiple business functions with dedicated services for enhanced scalability and maintainability.
-
-**Tech Stack:** Laravel, Spring Boot, PHP, Java, MySQL, REST APIs, Microservices Architecture
-
-### 📦 Logistic Management System
-Designed and developed a complete logistic management solution handling shipment tracking, warehouse management, and order processing with a focus on scalability.
-
-**Tech Stack:** Java EE, EJB, MySQL, Payara 6, Microservices Architecture
-
-### 🚦 Urban Traffic Management System with Simulator
-Built a real-time simulation-based traffic management system with distributed services and asynchronous messaging for optimal performance.
-
-**Tech Stack:** Java SE, Java EE, EJB, JMS, Microservices Architecture, Payara 6
-
-### 📱 M-Commerce Android Application
-Developed a full-featured mobile commerce application enabling product browsing, searching, and purchasing with seamless user experience.
-
-**Tech Stack:** Java, Android SDK, Firebase (Firestore, Authentication, Storage), Google Maps API
-
-### 🚢 Cargo Management System – Real-world Client Project
-Delivered a custom cargo management solution for a Maldives-based client, handling cargo booking, tracking, and delivery updates.
-
-**Tech Stack:** Laravel, PHP, MySQL
-
-## GitHub Statistics
-
-![Uchith's GitHub stats](https://github-readme-stats.vercel.app/api?username=uchithvihanga&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uchithvihanga&layout=compact&theme=tokyonight&hide_border=true)
-
-## Professional Experience
-
-**Associate Software Developer** | Sri Lanka Telecom Services Ltd. | *Jan 2025 – Present*
-
-**Software Developer Intern** | Sri Lanka Telecom Services Ltd. | *Jun 2024 – Dec 2024*
-
-## Education
-
-**BSc (Hons) Software Engineering**  
-Birmingham City University (United Kingdom)  
-Java Institute for Advanced Technology | *2021 – 2024*
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uchith-vihanga-999317282)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uchithvihanga@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/uchithvihanga)
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
+  [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  
+</div>
 
 ---
 
-💡 *"Strong ability to unlearn outdated practices and relearn new technologies to stay ahead in the ever-evolving tech landscape."*
+## 🚀 About Me
 
-🤝 Open to new opportunities and collaborations. Let's build something innovative together!
+```typescript
+const developer = {
+    name: "Uchith Vihanga",
+    location: "Colombo, Sri Lanka",
+    role: "Full Stack Developer",
+    languages: ["JavaScript", "TypeScript", "Python", "Java"],
+    interests: ["Web Development", "AI/ML", "Cloud Computing", "Open Source"],
+    currentlyLearning: ["Next.js", "Rust", "System Design"],
+    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
+};
+```
+
+- 🔭 I'm currently working on **something awesome**
+- 🌱 I'm currently learning **advanced system design and cloud architecture**
+- 👯 I'm looking to collaborate on **open source projects**
+- 💬 Ask me about **JavaScript, React, Node.js, or anything tech**
+- ⚡ Fun fact: **I speak fluent sarcasm and code**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div align="center">
+
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-repo-1&theme=tokyonight&hide_border=true)](https://github.com/yourusername/project-repo-1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-repo-2&theme=tokyonight&hide_border=true)](https://github.com/yourusername/project-repo-2)
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Your Blog Post Title 1](https://yourblog.com/post1)
+- [Your Blog Post Title 2](https://yourblog.com/post2)
+- [Your Blog Post Title 3](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [More blog posts...](https://yourblog.com)
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🔥 Show some ❤️ by starring some of the repositories!
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
