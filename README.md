@@ -105,29 +105,9 @@ const developer = {
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-repo-1&theme=tokyonight&hide_border=true)](https://github.com/yourusername/project-repo-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-repo-2&theme=tokyonight&hide_border=true)](https://github.com/yourusername/project-repo-2)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=uchithvihanga&repo=logistic_management_system&theme=tokyonight&hide_border=true)](https://github.com/uchithvihanga/logistic_management_system)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=uchithvihanga&repo=project-repo-2&theme=tokyonight&hide_border=true)](https://github.com/uchithvihanga/project-repo-2)
 
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Your Blog Post Title 1](https://yourblog.com/post1)
-- [Your Blog Post Title 2](https://yourblog.com/post2)
-- [Your Blog Post Title 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More blog posts...](https://yourblog.com)
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 ---
