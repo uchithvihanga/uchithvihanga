@@ -1,13 +1,13 @@
 # Hi there, I'm Uchith Vihanga 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
 </div>
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-  [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uchithvihanga)
+  [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.uchithvihanga@gmail.com)
   
 </div>
 
@@ -72,20 +72,7 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uchithvihanga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchithvihanga&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uchithvihanga&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uchithvihanga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -93,18 +80,7 @@ const developer = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=uchithvihanga&repo=logistic_management_system&theme=tokyonight&hide_border=true)](https://github.com/uchithvihanga/logistic_management_system)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=uchithvihanga&repo=project-repo-2&theme=tokyonight&hide_border=true)](https://github.com/uchithvihanga/project-repo-2)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uchithvihanga&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -113,7 +89,7 @@ const developer = {
   
   ### 🔥 Show some ❤️ by starring some of the repositories!
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=uchithvihanga&color=blueviolet&style=flat-square&label=Profile+Views)
   
 </div>
 
